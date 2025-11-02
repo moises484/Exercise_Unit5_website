@@ -1,0 +1,29 @@
+# ----------------------------------------------------------------------
+# Configuraciones del Editor/Sistema (NO deben ir al repositorio)
+# ----------------------------------------------------------------------
+
+# Archivos de configuración específicos de VS Code
+.vscode/
+
+# Archivos de configuración de proyectos de Sublime Text, Atom, etc.
+.idea/
+*.sublime-project
+*.code-workspace
+
+# Archivos de sistema macOS
+.DS_Store
+
+# Archivos de sistema Windows
+Thumbs.db
+
+# ----------------------------------------------------------------------
+# Archivos Temporales y Logs
+# ----------------------------------------------------------------------
+
+# Archivos temporales generados al guardar (e.g., archivos de backup)
+*.tmp
+*.bak
+*~
+
+# Archivos de registro (logs)
+*.log
